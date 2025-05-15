@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, Welcome to my github</h1>
+<h1 align="center">Hi 👋, Welcome to my Github</h1>
 <h3 align="center">Creative Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hector980112&label=Profile%20views&color=0e75b6&style=flat" alt="hector980112" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hector980112" alt="hector980112" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
